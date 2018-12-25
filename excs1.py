@@ -1,0 +1,7 @@
+print"This is similar to \nC"
+#print"But at same time it is diiferent"
+#print"Like in python you dont ned to terminate every command"
+print "in python you do not need to write the data types of the variables you use"
+#print"This somewhat let us focus on programing rather on small things"
+#print"I love python"
+print "Hey %d there." % "2"
